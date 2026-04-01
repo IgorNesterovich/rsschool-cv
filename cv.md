@@ -34,6 +34,14 @@ Hello, I am 26 years old and I work as a sales consultant. I want to develop in 
 
 ## Code Example
 
+```javascript
+const greetUser = (name) => {
+  console.log(`Welcome to my profile, ${name}`);
+};
+
+greetUser('Igor');
+```
+
 ---
 
 ## Experience
