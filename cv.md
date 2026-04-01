@@ -23,6 +23,13 @@ Hello, I am 26 years old and I work as a sales consultant. I want to develop in 
 
 ## Skills
 
+- Figma
+- HTML (BEM)
+- CSS (Bootstrap, SCSS)
+- JavaScript (React) (basic)
+- SQL (MySQL) (basic)
+- PHP (Laravel) (basic)
+
 ---
 
 ## Code Example
