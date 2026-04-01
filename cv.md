@@ -51,3 +51,7 @@ greetUser('Igor');
 ---
 
 ## Languages
+
+- Russian (native)
+- Belorussian (native)
+- English (Beginner)
