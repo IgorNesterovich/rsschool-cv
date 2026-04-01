@@ -17,6 +17,8 @@
 
 ## About me
 
+Hello, I am 26 years old and I work as a sales consultant. I want to develop in the field of front-end development because I am interested in it. I'm a quick learner and have experience working with clients and solving problems.
+
 ---
 
 ## Skills
