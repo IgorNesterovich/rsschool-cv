@@ -46,6 +46,8 @@ greetUser('Igor');
 
 ## Experience
 
+- Web developer course | Teach Me Skills.
+
 ---
 
 ## Languages
